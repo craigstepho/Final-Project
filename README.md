@@ -1,3 +1,3 @@
 # Pong
-By: Craig Stephenson
+# By: Craig Stephenson
 A ping pong game with power ups
