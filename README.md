@@ -1,3 +1,3 @@
 # Working Title
-# Stock Trading Simulator
+Stock Trading Simulator
 Craig Stephenson and Simon Li
