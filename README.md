@@ -1,6 +1,6 @@
 # Pong
 # By: Craig Stephenson
- A ping pong game with colors and points
+# A ping pong game with colors and points
 <img width="594" alt="Screen Shot 2021-05-26 at 12 49 20 PM" src="https://user-images.githubusercontent.com/70344786/119715414-378b3400-be21-11eb-9ca3-1d7285063bc3.png">
  float p1, p2;
 int p1Score, p2Score;
